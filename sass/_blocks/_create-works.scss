@@ -1,0 +1,123 @@
+.create-works__packets{
+  background-image: url("../../images/rele.jpg");
+  background-repeat: no-repeat;
+  margin-bottom: 168px;
+  padding: 126px 0 0 80px;
+}
+
+.create-works__subtext{
+  font-family: "Fraunces" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  color: #FEFCF7;
+}
+
+.create-works__text{
+  font-family: "Barlow" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;
+}
+
+.create-works__title{
+  font-family: "Fraunces" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 32px;
+  color: #83888F;
+  margin: 0;
+  margin-top: 200px;
+  margin-bottom: 80px;
+}
+
+.create-works__spanbox{
+  display: flex;
+}
+
+.create-works__span{
+  position: absolute;
+  display: block;
+  width: 31px;
+  height: 31px;
+  border: 2px solid #0E8784;
+  border-radius: 100%;
+}
+
+.create__span--first{
+  position: absolute;
+  left: 516px;
+}
+
+.create__span--secound{
+  position: absolute;
+  left: 900px;
+}
+
+.create-works__line{
+  position: relative;
+  left: 15px;
+  width: 380px;
+  border: 2px solid #FDD6BA;
+  margin: 0;
+  margin-top: 15px;
+}
+
+.create-works__list{
+  display: flex;
+  align-items: center;
+  margin: 0;
+  margin-top: 67px;
+  padding: 0;
+}
+
+.create-works__item{
+  margin-bottom: 72px;
+}
+
+.create-works__item:nth-child(2){
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.create-works__subtitle{
+  font-family: "Fraunces" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 72px;
+  color: #FDD6BA;
+}
+
+.create-works__trunk{
+  width: 255px;
+  margin-top: 38px;
+  margin-bottom: 42px;
+}
+
+.create-works__subtext{
+  font-family: "Fraunces" , "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 36px;
+  color: #FEFCF7;
+  margin: 0;
+}
+
+.create-works__packet{
+  width: 285px;
+}
+
+.create-works__text{
+  font-family: "Barlow", "Arial" , sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FEFCF7;
+}
