@@ -34,7 +34,7 @@
   .hero__boxs{
     background-image: url("/images/objects.jpg");
     background-repeat: no-repeat;
-    background-size: 768px;
+    background-size: cover;
     border-radius: 10px;
     padding: 137px 85px;
   }
@@ -44,7 +44,7 @@
   .hero__boxs{
     background-image: url("/images/objectc.jpg");
     background-repeat: no-repeat;
-    background-size: 320px;
+    background-size: cover;
     border-radius: 10px;
     padding: 111px 0 87px 0;
   }
@@ -80,7 +80,7 @@
   .hero__boxs{
     background-image: url("/images/objectc.jpg");
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     border-radius: 10px;
     padding: 111px 0 87px 0;
   }
@@ -116,7 +116,7 @@
   .hero__boxs{
     background-image: url("/images/objects.jpg");
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     object-fit: contain;
     border-radius: 10px;
     padding: 111px 0 87px 0;
@@ -185,7 +185,7 @@
   .hero__boxs{
     background-image: url("/images/Object.jpg");
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     object-fit: contain;
     border-radius: 10px;
     padding: 111px 0 87px 0;
